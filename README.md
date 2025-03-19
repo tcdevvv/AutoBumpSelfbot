@@ -19,6 +19,24 @@ Paste the ID/s of the channel/s that you want the bot to send **/bump** in to th
 
 Paste your bump role ID/s that you want the bot to monitor at the end of **BUMP_ROLE_IDS** separated by commas NO SPACES as shown
 
+## Running the Bot
+
+Before running the bot, you'll need to install the required dependencies. Run the following command in the root directory of your project:
+
+```bash
+npm install
+```
+
+This will install all the necessary packages listed in your package.json (including discord.js-selfbot-v13).
+
+Once the dependencies are installed, you can run the bot with:
+
+```bash
+node index.js
+```
+
+The bot will start and begin automating the /bump command in the specified channels based on the role IDs you provided.
+
 # How to get user token
 1. Open Discord
 2. Press `CTRL+SHIFT+I` to open the Developer Console
