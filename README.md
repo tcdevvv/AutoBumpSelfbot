@@ -19,7 +19,7 @@ Paste the ID/s of the channel/s that you want the bot to send **/bump** in to th
 
 Paste your bump role ID/s that you want the bot to monitor at the end of **BUMP_ROLE_IDS** separated by commas NO SPACES as shown
 
-## Running the Bot
+# Running the Bot
 
 Before running the bot, you'll need to install the required dependencies. Run the following command in the root directory of your project:
 
