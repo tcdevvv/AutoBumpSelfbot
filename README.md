@@ -27,7 +27,7 @@ Before running the bot, you'll need to install the required dependencies. Run th
 npm install
 ```
 
-This will install all the necessary packages listed in your package.json (including discord.js-selfbot-v13).
+This will install all the necessary packages for this software.
 
 Once the dependencies are installed, you can run the bot with:
 
